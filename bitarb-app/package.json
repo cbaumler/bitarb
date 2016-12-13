@@ -1,0 +1,17 @@
+{
+  "name": "bitarb-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "autobahn": "^0.9.9",
+    "bufferutil": "^1.2.1",
+    "crypto": "^0.0.3",
+    "meteor-node-stubs": "~0.2.0",
+    "poloniex-unofficial": "^1.0.3",
+    "request": "^2.72.0",
+    "url": "^0.11.0",
+    "utf-8-validate": "^1.2.1"
+  }
+}

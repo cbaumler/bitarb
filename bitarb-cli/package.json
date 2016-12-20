@@ -1,0 +1,25 @@
+{
+  "name": "bitarb-cli",
+  "version": "1.0.0",
+  "description": "A Command Line Tool For Automated Trading of Digital Assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbaumler/bitarb.git"
+  },
+  "author": "Chris Baumler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbaumler/bitarb/issues"
+  },
+  "homepage": "https://github.com/cbaumler/bitarb#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "poloniex-unofficial": "^1.1.2",
+    "sorted-array": "^2.0.1",
+    "winston": "^2.3.0"
+  }
+}

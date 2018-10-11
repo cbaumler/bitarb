@@ -10,6 +10,5 @@ The goal of this sprint is to create an initial application that performs arbitr
 
 Command Line Interface:
 
-`trollbox`: Don't feed the trolls
-
-`books`: Display Poloniex order books
+| trollbox | Don't feed the trolls        |
+| books    | Display Poloniex order books |
